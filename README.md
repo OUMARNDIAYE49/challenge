@@ -1,4 +1,4 @@
-ce projet consiste a creer une application calculatrice qui vous permetera d'effectuer des opérations mathématiques de base avec deux ou trois valeurs numériques.
+Ce projet consiste a creer une application calculatrice qui vous permetera d'effectuer des opérations mathématiques de base avec deux ou trois valeurs numériques.
 
 ## Fonctionnalités
 
